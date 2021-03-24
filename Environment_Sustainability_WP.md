@@ -1,8 +1,10 @@
 # Workplan
 
-PIs: 
+Theme Lead: Jon Rowe
 
-Postdocs:
+PIs: Scott Hosking, Sebastian Anhert, Gavin Shaddick, Alan Lowe
+
+Postdocs: 
 
 ## Set of stakeholders 
 
