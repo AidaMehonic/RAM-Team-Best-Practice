@@ -1,4 +1,4 @@
-#Workplan DRAFT
+# Workplan
 
 PIs: 
 
