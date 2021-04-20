@@ -19,3 +19,4 @@ This document outlines the roadmap for my OLS project, and follows guidelines fr
 * create github repo for ASG research
 * encourage people to populate the repo 
 * create an issue around data that is available etc. - maybe better if it's an md document - to duscuss with 
+* QUESTION: would it be a good idea to have some kind of a bi-weekly stand-up meeting for ASG postdocs - to discuss the data management issues, the tools they're building, infrastructure they're using, their reproducibility efforts, etc. 
