@@ -4,10 +4,18 @@ This document outlines the roadmap for my OLS project, and follows guidelines fr
 
 *Goal:*
 
-## Milestone 1
+## Milestone 1: Onboarding new researchers 
 
-## Milestone 2
+* organising intro sessions
+* creating and curating a Slack channel 
+* writing a chapter for The Turing Way on onboarding 
 
-## Milestone 3
+## Milestone 2: Upskilling researchers in open research 
 
+* run training sessions: intro to github, reproducibility across ASG, from zero to Binder 
 
+## Milestone 3: Encourage collaboration through sharing 
+
+* create github repo for ASG research
+* encourage people to populate the repo 
+* create an issue around data that is available etc. - maybe better if it's an md document - to duscuss with 
